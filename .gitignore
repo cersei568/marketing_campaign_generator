@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.vscode
+.env
+*.log
+training_model.ipynb
+35__welcome_survey_cleaned_clustering_pipeline.pkl
